@@ -1,0 +1,5 @@
+#Desktop configuration
+*.ini
+
+#Executables
+*.exe
